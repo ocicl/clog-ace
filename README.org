@@ -4,6 +4,6 @@ CLOG Plugin for the ACE Editor https://ace.c9.io/
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/rabbibotton/clog-ace.git |
-| commit  | d0114f0                                         |
+| commit  | bc9bd24                                         |
 | systems | clog-ace                                        |
 |---------+-------------------------------------------------|
