@@ -7,3 +7,4 @@ CLOG Plugin for the ACE Editor
 | commit  | 412dcd1                                         |
 | systems | clog-ace                                        |
 |---------+-------------------------------------------------|
+ 
